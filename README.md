@@ -1,2 +1,3 @@
-# hello-worldi
-justa another jonno
+# hello-world
+Hello fellow humans 
+how ya doing 
